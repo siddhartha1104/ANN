@@ -2,7 +2,7 @@
 
 ## Description
 
-Artificial Neural Network (ANN) Classification - Customer Churn Prediction
+End to End Artificial Neural Network (ANN) Classification Project Implementation
 
 ## Used Versions
 
